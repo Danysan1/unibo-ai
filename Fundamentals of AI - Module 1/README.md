@@ -28,6 +28,8 @@ Lesson recordings:
 Summaries:
 - [5 - Searching.md](5%20-%20Searching.md)
 - [6 - Local Search.md](6%20-%20Local%20Search.md)
+- [7 - Genetic algorithms.md](7%20-%20Genetic%20algorithms.md)
+- [8 - Swarm intelligence.md](8%20-%20Swarm%20intelligence.md)
 
 Lesson recordings:
 - [2020-10-05 (4)](https://web.microsoftstream.com/video/5282d66c-d1fc-4881-b570-f8e46cdcb09a?list=user&userId=501dc13d-1074-4934-8386-df921ca87533)
