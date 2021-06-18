@@ -1,0 +1,1 @@
+<!-- $\left(\bigcup\limits_{c \ge 1} DTIME(n^c)\right)$ --> <img style="transform: translateY(0.1em); background: white;" src="https://render.githubusercontent.com/render/math?math=%5Cleft(%5Cbigcup%5Climits_%7Bc%20%5Cge%201%7D%20DTIME(n%5Ec)%5Cright)">
