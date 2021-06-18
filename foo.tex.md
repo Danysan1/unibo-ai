@@ -1,0 +1,1 @@
+foo <!-- $bar^2$ --> <img style="transform: translateY(0.1em); background: white;" src="svg\ViSrV37iTw.svg"> quz
