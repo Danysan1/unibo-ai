@@ -1,0 +1,1 @@
+foo <!-- $bar^2$ --> <img style="transform: translateY(0.1em); background: white;" src="https://render.githubusercontent.com/render/math?math=bar%5E2"> quz 
