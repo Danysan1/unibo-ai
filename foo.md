@@ -1,0 +1,1 @@
+foo <img src="svgs/b255c08b6cdb9cd02e3457bb3eda142d.svg?invert_in_darkmode" align=middle width=30.169453049999987pt height=26.76175259999998pt/> quz 
